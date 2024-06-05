@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KingMaker
 
 
@@ -318,3 +319,6 @@ Documentation
 
 The full documentation can be found at https://crown.readthedocs.io/en/latest/.
 
+=======
+# KingMaker_Htautau
+>>>>>>> 9586913f1195a16f63fe5ca336c43b12a08b68aa
