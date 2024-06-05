@@ -3,6 +3,11 @@ import argparse
 from rich.table import Table
 from rich.console import Console
 
+def replace_run_with_ver(input_string):
+
+    output_string = input_string.replace('_run', '_Ver')
+    return output_string
+
 # parse arguments
 parser = argparse.ArgumentParser(description="")
 parser.add_argument("--analysis", type=str, help="name of the analysis")
@@ -38,7 +43,9 @@ for i, line in enumerate(lines):
 
 # now print the results as a rich table with the percentual completion
 
-table = Table(title="Sample Status")
+TT = replace_run_with_ver(args.tag)
+
+table = Table(title = TT )
 
 table.add_column("Sample", justify="right")
 table.add_column("Done", justify="right")
