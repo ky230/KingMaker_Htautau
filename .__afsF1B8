@@ -8670,3 +8670,44 @@ submitted 20 job(s)
 21:53:19: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
 21:54:20: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
 21:55:21: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+21:56:21: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+21:57:23: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+21:58:24: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+21:59:25: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:00:26: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:01:26: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:02:27: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:03:28: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:04:29: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:05:29: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:06:30: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:07:36: all: 67, pending: 0 (+0), running: 20 (+0), finished: 47 (+0), retry: 0 (+0), failed: 0 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:08:37: all: 67, pending: 0 (+0), running: 16 (-4), finished: 47 (+0), retry: 0 (+0), failed: 4 (+4) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+4 failed job(s) in task CROWNRun_KingMaker____tau_841e201712:
+    job: 10, branch(es): 9, id: 9720653.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    job: 11, branch(es): 10, id: 9720654.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    job: 12, branch(es): 11, id: 9720652.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    job: 19, branch(es): 18, id: 9720651.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+22:09:38: all: 67, pending: 0 (+0), running: 16 (+0), finished: 47 (+0), retry: 0 (+0), failed: 4 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:10:39: all: 67, pending: 0 (+0), running: 16 (+0), finished: 47 (+0), retry: 0 (+0), failed: 4 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:11:39: all: 67, pending: 0 (+0), running: 16 (+0), finished: 47 (+0), retry: 0 (+0), failed: 4 (+0) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+22:12:41: all: 67, pending: 0 (+0), running: 1 (-15), finished: 47 (+0), retry: 0 (+0), failed: 19 (+15) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+15 failed job(s) in task CROWNRun_KingMaker____tau_841e201712:
+    job: 22, branch(es): 21, id: 9720655.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    job: 33, branch(es): 32, id: 9720657.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    job: 34, branch(es): 33, id: 9720658.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    job: 42, branch(es): 41, id: 9720659.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    job: 45, branch(es): 44, id: 9720660.0, status: failed, code: 0, error: Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max."
+    ... and 10 more
+22:13:42: all: 67, pending: 0 (+0), running: 0 (-1), finished: 47 (+0), retry: 0 (+0), failed: 20 (+1) - TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12
+ERROR: [pid 3456449] Worker Worker(salt=922349366, workers=1, host=lxplus985.cern.ch, username=leyan, pid=3456449) failed    CROWNRun(branch=-1, branches=, wlcg_path=root://eosuser.cern.ch///eos/user/l/leyan/CROWN/ntuples/, identifier=[], ENV_NAME=KingMaker, htcondor_accounting_group=group_u_CMS.u_zh.users, htcondor_requirements=, htcondor_remote_job=True, htcondor_walltime=100800, htcondor_request_cpus=1, htcondor_request_gpus=0, htcondor_request_memory=16000, htcondor_universe=vanilla, htcondor_docker_image=mschnepf/slc7-condocker:latest, htcondor_request_disk=20000000, bootstrap_file=setup_law_remote.sh, additional_files=[], nick=TTto2L2Nu_TuneCP5_13p6TeV_powheg-pythia8_Run3Summer22NanoAODv12, scopes=["mt", "et", "tt"], sampletype=ttbar, sampletypes=["ttbar"], era=2022EE, eras=["2022EE"], analysis=tau, config=config, production_tag=NanoV12_2022MC_ttbarall_run6_allsyst, files_per_task=1, workflow=htcondor)
+Traceback (most recent call last):
+  File "/afs/cern.ch/user/l/leyan/KingMaker/miniconda/envs/KingMaker/lib/python3.9/site-packages/luigi/worker.py", line 191, in run
+    new_deps = self._run_get_new_deps()
+  File "/afs/cern.ch/user/l/leyan/KingMaker/miniconda/envs/KingMaker/lib/python3.9/site-packages/luigi/worker.py", line 133, in _run_get_new_deps
+    task_gen = self.task.run()
+  File "/afs/cern.ch/user/l/leyan/KingMaker/law/law/workflow/remote.py", line 508, in run
+    self.poll()
+  File "/afs/cern.ch/user/l/leyan/KingMaker/law/law/workflow/remote.py", line 986, in poll
+    raise Exception(err.format(self.poll_data.n_finished_min, n_jobs, n_failed))
+Exception: acceptance of 63.65 not reached, total jobs: 67, failed jobs: 20
